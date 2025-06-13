@@ -1,3 +1,5 @@
+// app/layout.js or app/layout.jsx
+
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/layouts/header/Header";
@@ -22,15 +24,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-white text-black`}
       >
-        <Header />
+        <div className="flex flex-col min-h-screen">
+          <Header />
 
-        <main className="flex-grow bg-amber-300 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          {children}
-        </main>
+          <main className="flex-grow bg-amber-300 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            {children}
+          </main>
 
-        <Footer />
+          <Footer />
+        </div>
       </body>
     </html>
   );
