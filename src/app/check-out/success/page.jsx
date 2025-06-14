@@ -1,7 +1,7 @@
 import CheckOutSuccess from "@/pages/CheckOutSuccess";
 
-function success() {
+function page() {
   return <CheckOutSuccess />;
 }
 
-export default success;
+export default page;
