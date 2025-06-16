@@ -27,12 +27,15 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-white text-black`}
       >
         <div className="flex flex-col min-h-screen">
+          {/* Header - does not grow */}
           <Header />
 
-          <main className="flex-grow bg-amber-300 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Main content - grows to fill space between Header and Footer */}
+          <main className="pt-20 flex-grow mt-20 bg-amber-300 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {children}
           </main>
 
+          {/* Footer - does not grow */}
           <Footer />
         </div>
       </body>

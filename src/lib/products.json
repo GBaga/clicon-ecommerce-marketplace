@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Eco Glass Water Bottle",
+    "image_url": "https://mtpak.coffee/wp-content/uploads/2023/10/cafe-entre-cerros-side-gusset-pouch-1.jpg",
+    "description": "Stylish and sustainable glass water bottle with eco-friendly materials.",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Fitness Tracker Pro",
+    "image_url": "https://cdn.thewirecutter.com/wp-content/media/2023/11/fitness-tracker-2048px-5344.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+    "description": "Advanced fitness tracker with heart rate and sleep monitoring.",
+    "price": 74.5
+  },
+  {
+    "id": 3,
+    "name": "RGB LED Strip Lights",
+    "image_url": "https://cdn.webshopapp.com/shops/189995/files/416634556/900x900x2/hoftronic-dimmable-led-strip-50m-rgb-60-leds-m-ip6.jpg",
+    "description": "Dimmable RGB light strip perfect for home ambiance or gaming setups.",
+    "price": 21.99
+  },
+  {
+    "id": 4,
+    "name": "Wireless Earbuds",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtsW-UwSynBylqNWR3X0iO0YnkpMRSMdQKA&s",
+    "description": "Compact Bluetooth earbuds with excellent sound and noise isolation.",
+    "price": 59.95
+  },
+  {
+    "id": 5,
+    "name": "Aromatherapy Diffuser",
+    "image_url": "https://madebyzen.com/cdn/shop/files/Arran_product_banner_1_mobile.jpg?v=1727869264&width=2000",
+    "description": "Sleek essential oil diffuser for a calming environment.",
+    "price": 29.0
+  },
+  {
+    "id": 6,
+    "name": "Ergonomic Office Chair",
+    "image_url": "https://www.bigw.com.au/medias/sys_master/images/images/h81/h31/65092840554526.jpg",
+    "description": "Comfortable office chair with lumbar support for long work sessions.",
+    "price": 134.99
+  },
+  {
+    "id": 7,
+    "name": "6-Port USB Charging Station",
+    "image_url": "https://s3.belkin.com/resources/img/overview/b2b139/belkin-B2B139-rockstar-charging-station-cables-v01-r01-291x291-us.jpg",
+    "description": "Smart multi-device USB charger for home or office.",
+    "price": 26.75
+  },
+  {
+    "id": 8,
+    "name": "Minimalist Leather Wallet",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtsW-UwSynBylqNWR3X0iO0YnkpMRSMdQKA&s",
+    "description": "Slim RFID-blocking leather wallet with sleek design.",
+    "price": 35.0
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "image_url": "https://cdn.webshopapp.com/shops/189995/files/416634556/900x900x2/hoftronic-dimmable-led-strip-50m-rgb-60-leds-m-ip6.jpg",
+    "description": "Rich sound in a compact, stylish, and portable Bluetooth speaker.",
+    "price": 49.9
+  },
+  {
+    "id": 10,
+    "name": "Green Tea Gift Box",
+    "image_url": "https://mtpak.coffee/wp-content/uploads/2023/10/cafe-entre-cerros-side-gusset-pouch-1.jpg",
+    "description": "Premium organic green tea blends in elegant gift packaging.",
+    "price": 31.99
+  }
+]

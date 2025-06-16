@@ -1,4 +1,4 @@
-import DashboardOrderHistory from "@/pages/DashboardOrderHistory";
+import DashboardOrderHistory from "@/pages/dashboard/DashboardOrderHistory";
 import React from "react";
 
 function page() {

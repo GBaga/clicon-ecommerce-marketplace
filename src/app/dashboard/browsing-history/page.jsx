@@ -1,4 +1,4 @@
-import DashboardBrowsingHistory from "@/pages/DashboardBrowsingHistory";
+import DashboardBrowsingHistory from "@/pages/dashboard/DashboardBrowsingHistory";
 import React from "react";
 
 function page() {

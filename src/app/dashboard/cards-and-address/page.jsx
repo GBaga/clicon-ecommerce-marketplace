@@ -1,4 +1,4 @@
-import DashboardCardsAndAddress from "@/pages/DashboardCardsAndAddress";
+import DashboardCardsAndAddress from "@/pages/dashboard/DashboardCardsAndAddress";
 import React from "react";
 
 function page() {

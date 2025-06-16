@@ -1,4 +1,4 @@
-import DashboardSetting from "@/pages/DashboardSetting";
+import DashboardSetting from "@/pages/dashboard/DashboardSetting";
 import React from "react";
 
 function page() {

@@ -1,4 +1,4 @@
-import SignIn from "@/pages/SignIn";
+import SignIn from "@/pages/auth/SignIn";
 import React from "react";
 
 function page() {

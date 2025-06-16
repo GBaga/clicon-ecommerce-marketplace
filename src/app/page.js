@@ -1,5 +1,4 @@
-// app/page.js
-import Link from "next/link";
+"use client";
 
 export default function Home() {
   return (

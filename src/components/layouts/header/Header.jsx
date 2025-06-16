@@ -30,6 +30,13 @@ function Header() {
           {/* Desktop Menu */}
           <div className="hidden lg:flex space-x-8 items-center">
             <a
+              href="/shop"
+              className="hover:text-gray-300 text-lg font-medium transition"
+              onClick={closeMobileMenu}
+            >
+              Shop
+            </a>
+            <a
               href="#about"
               className="hover:text-gray-300 text-lg font-medium transition"
               onClick={closeMobileMenu}
@@ -130,6 +137,13 @@ function Header() {
           </button>
         </div>
         <nav className="flex flex-col items-center space-y-8 mt-12">
+          <a
+            href="/shop"
+            className="text-white text-3xl font-medium hover:text-gray-300 transition"
+            onClick={closeMobileMenu}
+          >
+            Shop
+          </a>
           <a
             href="#about"
             className="text-white text-3xl font-medium hover:text-gray-300 transition"

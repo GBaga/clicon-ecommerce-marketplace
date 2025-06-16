@@ -1,4 +1,4 @@
-import SignUp from "@/pages/SignUp";
+import SignUp from "@/pages/auth/SignUp";
 import React from "react";
 
 function page() {

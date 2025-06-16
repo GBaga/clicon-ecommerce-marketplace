@@ -1,4 +1,4 @@
-import EmailVerification from "@/pages/EmailVerification";
+import EmailVerification from "@/pages/auth/EmailVerification";
 import React from "react";
 
 function page() {
