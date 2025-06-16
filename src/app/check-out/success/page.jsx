@@ -1,7 +1,5 @@
-import CheckOutSuccess from "@/pages/CheckOutSuccess";
-
 function page() {
-  return <CheckOutSuccess />;
+  return <div>success</div>;
 }
 
 export default page;
