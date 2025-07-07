@@ -83,8 +83,8 @@ export default function Home() {
           </h2>
           <div className="bg-gray-50 p-8 rounded-lg shadow-md">
             <p className="text-lg text-gray-700 text-center mb-6">
-              Have a question or want to start a project? We&apos;d love to hear
-              from you!
+              Have a question or want to start a project? Wed love to hear from
+              you!
             </p>
             <div className="text-center mb-8">
               <p className="text-lg text-gray-800 font-semibold mb-2">
