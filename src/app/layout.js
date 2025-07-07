@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
           <Header />
 
           {/* Main content - grows to fill space between Header and Footer */}
-          <main className="pt-20 flex-grow mt-20 bg-amber-300 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <main className="pt-20 flex-grow mt-20 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {children}
           </main>
 
